@@ -898,6 +898,10 @@ more media queries
 	background: #fafafa;
 }
 
+#portfolio .img {
+	padding-right:35px;
+}
+
 #services {
 	padding-top:200px;
 }
@@ -925,4 +929,8 @@ more media queries
   background: #00c1c1;
   color: #fff;
   text-decoration: none;
+}
+
+#contact {
+	height:100vh;
 }
