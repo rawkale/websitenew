@@ -895,12 +895,17 @@ more media queries
 #portfolio {
 	height: 100vh;
 	padding-top:200px;
+	padding-bottom:200px;
 	background: #fafafa;
 }
 
-#portfolio .img {
-	padding-right:35px;
+#portfolio img {
+	margin-right:25px;
+	margin-bottom:25px;
+
 }
+
+
 
 #services {
 	padding-top:200px;
@@ -932,5 +937,6 @@ more media queries
 }
 
 #contact {
+	padding-top:400px;
 	height:100vh;
 }
